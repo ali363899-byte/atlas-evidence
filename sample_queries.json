@@ -1,0 +1,7 @@
+[
+ {"query":"BM25 retrieval citations","relevant_sources":["retrieval"]},
+ {"query":"mean reciprocal rank recall","relevant_sources":["evaluation"]},
+ {"query":"privacy local API keys","relevant_sources":["privacy"]},
+ {"query":"تَطْبِيع اللُّغَة الْعَرَبِيَّة","relevant_sources":["arabic"]},
+ {"query":"population stability distribution","relevant_sources":["drift"]}
+]
